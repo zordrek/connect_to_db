@@ -4,7 +4,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 import java.util.Properties;
 
-public class Main {
+public class CardFromDB {
 
     public static void main(String[] args) {
         // РАБОТА С БАЗОЙ ДАННЫХ POSTGRESQL ЧЕРЕЗ JDBC
